@@ -1,4 +1,4 @@
-<h3>Spark</h3> <p>Spark admite múltiples lenguajes como Scala, PySpark, SparkR, Java y SQL para procesamiento en memoria y en distribuciones como HDFS y Hive.</p> 
+<h1>Comandos Spark</h1> <p>Spark admite múltiples lenguajes como Scala, PySpark, SparkR, Java y SQL para procesamiento en memoria y en distribuciones como HDFS y Hive.</p> 
 <h3>Características</h3> <ul> <li><strong>Procesar:</strong> <ul> <li>Distribución HDFS, Hive</li> <li>En memoria</li> </ul> </li> 
   <li><strong>RDD o DataFrame:</strong> Estructuras inmutables, es decir, no se modifican en el tiempo. <ul> 
     <li>Pueden almacenar datos tabulares o no estructurados.</li> </ul> </li> </ul> <h3>Comandos Spark Scala</h3> <ul> 
