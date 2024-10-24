@@ -1,7 +1,7 @@
 <h1>Comandos HDFS</h1>
 
 1.	Sirve para ingresar como usuario root<br>
-Sudo su
+sudo su
 3.	Sirve para levantar los servicios de Docker<br>
 docker compose up -d
 4.	Acceder al contenedor NameNode(diferente al sistema de archivo local)<br>
