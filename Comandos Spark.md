@@ -4,8 +4,8 @@
     <li>Pueden almacenar datos tabulares o no estructurados.</li> </ul> </li> </ul> <h3>Comandos Spark Scala</h3> <ul> 
       <li>Sirve para ingresar como usuario root <br>Sudo su</li> <li>Sirve para levantar los servicios de Docker <br>docker compose up -d</li>
       <li>Acceder a los servicios Spark en el contenedor <br>docker exec -it spark-master bash</li> <li>
-        Cambiar el directorio a la carpeta de Spark <br>cd /spark/bin</li> <li>Iniciar Spark Shell en SCALA o PYTHON <br>./spark-shell (Scala) 
-          <br>./pyspark (Python)</li> </ul> <h3>Transferencia de archivos CSV</h3> <ul> <li> Cargar archivo MOCK_DATA.csv desde la máquina local<br>
+        Cambiar el directorio a la carpeta de Spark <br>cd /spark/bin</li> <li>Iniciar Spark Shell en SCALA o PYTHON <br>./spark-shell <strong>(Scala) </strong>
+          <br>./pyspark <strong>(Python)</strong></li> </ul> <h3>Transferencia de archivos CSV</h3> <ul> <li> Cargar archivo MOCK_DATA.csv desde la máquina local<br>
             C:\Users\sistemas\Downloads\MOCK_DATA.csv</li> <li> Subir archivo CSV al servidor remoto mediante SCP
               <br> scp MOCK_DATA.csv usuario@dirección's password:/home/ubuntu/Hadoop</li> <li> Copiar archivo desde la máquina local al contenedor Docker de Hadoop<br> 
                 docker cp /home/ubuntu/Hadoop/datos.csv namenode:/tmp/</li>
