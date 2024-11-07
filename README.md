@@ -2,6 +2,10 @@
 <h2>Abrir:</h2>
 https://awsacademy.instructure.com/login/canvas
 <br/><br/>
+# [Ver los comandos de Hive](Comandos_Hive.md)
+# [Ver los comandos de HDFS](Comandos_HDFS.md)
+# [Ver los comandos de SPARK](Comandos Spark.md)
+
 *Este repositorio contiene una colección de comandos prácticos y ejemplos para trabajar con Apache Hive, Apache Spark y Hadoop HDFS en entornos distribuidos. Está diseñado para desarrolladores, científicos de datos e ingenieros que trabajen con grandes volúmenes de datos y sistemas distribuidos utilizando estas tecnologías de Big Data. Aquí encontrarás scripts y ejemplos que cubren el procesamiento de datos, consultas SQL sobre Hadoop, y manipulación de archivos en sistemas de archivos distribuidos como HDFS.*
 <h2 align="center">Historia de Hadoop📜</h2>
 <p>Hadoop fue creado en 2006 por Doug Cutting, inspirado en un elefante de peluche que su hija tenía. Hadoop es una plataforma de software que soporta la computación distribuida a gran escala, diseñada para manejar grandes volúmenes de datos de manera eficiente. Apache Software Foundation es la organización que lo respalda, junto con muchos otros proyectos como SugarCRM y OSCommerce.</p>
@@ -43,4 +47,6 @@ https://awsacademy.instructure.com/login/canvas
 
 <p>HDFS( (Hadoop Distributed File System), es un sistema de archivos distribuido diseñado para almacenar y gestionar grandes volúmenes de datos en entornos de clústeres de computadoras, es software de código abierto, desarrollado por Apache</p>
 
-ip de uso 172.31
+ip de uso 172.31 
+
+
