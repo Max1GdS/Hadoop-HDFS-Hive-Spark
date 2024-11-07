@@ -2,9 +2,12 @@
 <h2>Abrir:</h2>
 https://awsacademy.instructure.com/login/canvas
 <br/><br/>
+
 # [Ver los comandos de Hive](Comandos_Hive.md)
+
 # [Ver los comandos de HDFS](Comandos_HDFS.md)
-# [Ver los comandos de SPARK](Comandos Spark.md)
+
+# [Ver los comandos de SPARK](Comandos%20Spark.md)
 
 *Este repositorio contiene una colección de comandos prácticos y ejemplos para trabajar con Apache Hive, Apache Spark y Hadoop HDFS en entornos distribuidos. Está diseñado para desarrolladores, científicos de datos e ingenieros que trabajen con grandes volúmenes de datos y sistemas distribuidos utilizando estas tecnologías de Big Data. Aquí encontrarás scripts y ejemplos que cubren el procesamiento de datos, consultas SQL sobre Hadoop, y manipulación de archivos en sistemas de archivos distribuidos como HDFS.*
 <h2 align="center">Historia de Hadoop📜</h2>
