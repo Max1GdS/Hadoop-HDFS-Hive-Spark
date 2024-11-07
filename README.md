@@ -50,6 +50,6 @@ https://awsacademy.instructure.com/login/canvas
 
 <p>HDFS( (Hadoop Distributed File System), es un sistema de archivos distribuido diseñado para almacenar y gestionar grandes volúmenes de datos en entornos de clústeres de computadoras, es software de código abierto, desarrollado por Apache</p>
 
-ip de uso 172.31 
+ip de uso 172.31 bigdata 2
 
 
